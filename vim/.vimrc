@@ -91,6 +91,3 @@ augroup autosourcing
 	autocmd BufWritePost .vimrc source %
 augroup END
 "AUTOCMD STUFF END
-
-
-
